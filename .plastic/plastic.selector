@@ -1,0 +1,4 @@
+repository "ContainerStack@icewaternotice@cloud"
+  path "/"
+    br "/main"
+    co "/main"
